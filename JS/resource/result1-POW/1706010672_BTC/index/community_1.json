@@ -1,0 +1,23 @@
+{
+  "transactionTimestamps": [
+    1706010706245
+  ],
+  "blockTimestamps": [
+    1706010717781
+  ],
+  "blockTimes": [
+    1706010705
+  ],
+  "blockTransactions": [
+    1
+  ],
+  "Delays": [
+    11536
+  ],
+  "Throughputs": [
+    0.08668515950069348
+  ],
+  "AverageDelays": [
+    11536
+  ]
+}
